@@ -57,3 +57,7 @@ export const SKILL_LIST = [
     { name: 'Survival', attributeModifier: 'Wisdom' },
 
 ]
+
+export const MAX_POINTS = 70;
+
+export const API_URL = "https://recruiting.verylongdomaintotestwith.ca/api/vishal-sancheti/character";
